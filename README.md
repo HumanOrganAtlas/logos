@@ -12,3 +12,10 @@ Organ illustrations © 2024 by Alissa Parmenter are licensed under [Creative Com
 ## Credits
 Logo design: Alissa Parmenter, Emily Newton, David Stansby, Matthieu Chourrout
 Organ illustrations: Alissa Parmenter
+
+## Logos
+
+![HOA Logo](HOA_border.svg)
+![HOAHub Logo](HOAHub_border.svg)
+
+Rendered versions (.png files) and versions without the border and background are also available in this repository.
