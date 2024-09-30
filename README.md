@@ -11,6 +11,7 @@ Organ illustrations © 2024 by Alissa Parmenter are licensed under [Creative Com
 
 ## Credits
 Logo design: Alissa Parmenter, Emily Newton, David Stansby, Matthieu Chourrout
+
 Organ illustrations: Alissa Parmenter
 
 ## Logos
